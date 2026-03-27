@@ -29,3 +29,8 @@ body {
 .cart-item button {
   margin-left: 10px;
 }
+
+.quantity {
+  width: 30px;
+  padding: 3px;
+}
